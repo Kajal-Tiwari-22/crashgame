@@ -15,7 +15,7 @@ Can you predict the crash and beat the odds?
 
 ## **Game Preview**  
 ### Live Demo
-Demo : 
+Demo : https://crash-gamebit.netlify.app/
 <img src="Crash Game_won.png"/> 
 *Screenshot: A sleek, interactive interface with rising multipliers and neon highlights.*  
 
